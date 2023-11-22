@@ -148,12 +148,12 @@
   --jse-message-action-background-highlight: rgba(255, 255, 255, 0.3);
 
   /* svelte-select */
-  --item-is-active-bg: #3883fa;
-  --border: 1px solid #d8dbdf;
-  --border-radius: 3px;
-  --background: #fff;
-  --padding: 0 10px;
-  --multi-select-padding: 0 10px;
+  --jse-ss-item-is-active-bg: #3883fa;
+  --jse-ss-border: 1px solid #d8dbdf;
+  --jse-ss-border-radius: 3px;
+  --jse-ss-background: #fff;
+  --jse-ss-padding: 0 100px;
+  --jse-ss-multi-select-padding: 0 10px;
 
   /* color picker */
   --jse-color-picker-background: var(--jse-panel-background);

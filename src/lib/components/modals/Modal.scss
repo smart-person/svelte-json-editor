@@ -10,6 +10,21 @@
   --multi-item-border-radius: 6px;
   --indicator-top: 8px;
 
+  --item-is-active-bg: var(--jse-ss-item-is-active-bg, initial);
+  --border: var(--jse-ss-border, initial);
+  --border-radius: var(--jse-ss-border-radius, initial);
+  --background: var(--jse-ss-background, initial);
+  --padding: var(--jse-ss-padding, initial);
+  --multi-select-padding: var(--jse-ss-multi-select-padding, initial);
+  --list-background: var(--jse-ss-list-background, initial);
+  --item-hover-bg: var(--jse-ss-item-hover-bg, initial);
+  --multi-item-bg: var(--jse-ss-multi-item-bg, initial);
+  --item-color: var(--jse-ss-item-color, initial);
+  --input-color: var(--jse-ss-input-color, initial);
+  --multi-item-clear-icon-color: var(--jse-ss-multi-item-clear-icon-color, initial);
+  --multi-item-outline: var(--jse-ss-multi-item-outline, initial);
+  --list-shadow: var(--jse-ss-list-shadow, initial);
+
   @include jse-modal-style;
 
   .jse-modal-contents {
