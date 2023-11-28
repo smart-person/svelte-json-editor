@@ -22,7 +22,7 @@ The library is written with Svelte, but can be used in plain JavaScript too and 
 - Utilities like a color picker and timestamp tag
 - Handles large JSON documents up to 512 MB
 
-## Install
+## Install project
 
 For usage in a Svelte project:
 
